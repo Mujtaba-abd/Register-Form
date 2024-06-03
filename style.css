@@ -13,8 +13,6 @@ body{
 main{
     display: flex;
     background-color: #151320cd;
-    height: 80vh;
-    /* width: 55vw; */
     padding: 100px;
     align-items: center;
     align-self: center;
