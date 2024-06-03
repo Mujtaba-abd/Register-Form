@@ -1,7 +1,48 @@
 body{
+    margin: 0px;
     background-image: url("Wallpaper\ 2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    padding: 10%;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+main{
+    display: flex;
+    background-color: #151320cd;
+    height: 80vh;
+    /* width: 55vw; */
+    padding: 100px;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    border-radius: 6px;
+}
+
+h1 {
+    align-self: center;
+    margin-top: -58px;
+}
+
+fieldset{
+    border: 0;
+}
+
+form{
+    align-self: center;
+    margin-top: -15px;
+}
+
+input {
+    margin: 8px;
+}
+
+hr{
+}
+
+.account-type{
+    display: block;
 }
