@@ -47,3 +47,18 @@ hr{
     display: flex;
     flex-direction: column;
 }
+
+.btu{
+    border-radius: 7px;
+    border: 0;
+    background-color: #1e193f;
+    padding: 4px;
+    color: whitesmoke;
+    margin-top: 7px;
+}
+
+.btu:hover{
+    box-shadow: 2px 4px #100e18;
+    color: #1e193f;
+    background-color: rgb(75, 75, 86);
+}
